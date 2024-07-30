@@ -1,1 +1,1 @@
-# rumor_spread
+# Mathematical modelling of rumor dissenmination
